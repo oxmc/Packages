@@ -2,7 +2,7 @@
 const packagename = "Example package Griphitor";
 
 /* Include griphitor functions */
-require(`$appdir/main/package`);
+require(`${appdir}/main/package`);
 
 /* Variables */
 const notifbody = {
